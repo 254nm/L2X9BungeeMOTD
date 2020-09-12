@@ -1,0 +1,7 @@
+#Motds
+#Use & for colours and \n for a new line
+Motds:
+  - "&6This is the default config for L2X9BungeeMotd"
+  - "&aThis is the default config for L2X9BungeeMotd"
+  - "&3This is the default config for L2X9BungeeMotd"
+  - "&bThis is the default config for L2X9BungeeMotd"

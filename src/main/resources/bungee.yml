@@ -1,0 +1,4 @@
+name: L2X9Motd
+version: ${project.version}
+main: org.l2x9.motd.Motd
+description: Sets the motd
